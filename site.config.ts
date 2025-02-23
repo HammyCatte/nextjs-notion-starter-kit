@@ -44,7 +44,7 @@ export default siteConfig({
   //
   pageUrlOverrides: {
     '/character': '12742883e81a8063b30ae0f153d645fe',
-    '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   }
   // pageUrlOverrides: null,
 
