@@ -45,7 +45,7 @@ export default siteConfig({
   pageUrlOverrides: {
   //   '/character': '12742883e81a8063b30ae0f153d645fe',
     '/character': '12742883e81a8063b30ae0f153d645fe'
-  }
+  },
   // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
