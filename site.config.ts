@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '15542883e81a8049a566d9d9225b8a06',
+  rootNotionPageId: '12742883e81a8063b30ae0f153d645fe',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -42,11 +42,11 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
-  pageUrlOverrides: {
+  // pageUrlOverrides: {
   //   '/character': '12742883e81a8063b30ae0f153d645fe',
-    '/character': '12742883e81a8063b30ae0f153d645fe'
-  },
-  // pageUrlOverrides: null,
+  //   '/character': '12742883e81a8063b30ae0f153d645fe'
+  // },
+  pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
